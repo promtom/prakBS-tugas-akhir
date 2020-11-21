@@ -1,0 +1,80 @@
+body {
+  /* background-image: url("https://i.redd.it/ipzgxz0wg9521.png"); */
+  /* background-image: url("https://s1.1zoom.me/big0/178/407162-blackangel.jpg"); */
+  background-image: url("labora.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right top;
+  background-attachment: fixed;
+  color: whitesmoke;
+}
+
+.color{
+  width: fit-content;
+  height: fit-content;
+  background-color: white;
+  opacity: 70%;
+  color : black;
+}
+
+.from{
+  margin: 0 auto;
+  width: fit-content;
+  height: fit-content;
+  background-color: black;
+  opacity: 70%;
+  color : white;
+}
+
+.about{
+  margin: 0 auto;
+  width: fit-content;
+  height: fit-content;
+  background-color: white;
+  opacity: 70%;
+  /* background-color: transparent; */
+  color : black;
+  font-size:25px;
+}
+
+img.avatar {
+  width: 80px;
+  height: 80px;
+  vertical-align: middle
+}
+
+img.emojika {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle
+}
+
+h1 {
+  color: goldenrod;
+  font-family: Fantasy;
+  text-align: center;
+  font-size: 80px;
+}
+
+h2 {
+  color: Tomato;
+  font-family: Comic Sans MS;
+  text-align: center;
+  font-size:25px;
+}
+
+
+a:link, a:visited {
+  margin-top: 1.0%;
+  margin-bottom: 1.0%;
+  background-color: #12bbad;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: blueviolet;
+}
